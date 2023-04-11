@@ -4,10 +4,10 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>SportyShoes-Add Product</title>
+<title>Add Product</title>
 </head>
 <body>
-	<h2>Hey Buddy Enter the Product details to be added</h2>
+	<h2>Enter the product details</h2>
 	<form action="productaddition" method="post">
 		<tr>
 			<td>Product Name</td>

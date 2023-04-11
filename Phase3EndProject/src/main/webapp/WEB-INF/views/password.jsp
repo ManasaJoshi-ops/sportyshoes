@@ -8,7 +8,7 @@
 </head>
 <body>
 <center>
-<h1>Password Changing</h1>
+<h1>Change Password </h1>
 	<form action="password">
 		<table>
 			<tr>

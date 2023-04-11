@@ -6,7 +6,7 @@
 <title>SportyShoes-Delete Product</title>
 </head>
 <body>
-	<h2>Hii Buddy select The Product to delete</h2>
+	<h2>Select the Product to delete</h2>
 	<ul>
 		<c:forEach items="${products}" var="product">
 			<li>${product.id}|${product.prodname }|${product.brand }

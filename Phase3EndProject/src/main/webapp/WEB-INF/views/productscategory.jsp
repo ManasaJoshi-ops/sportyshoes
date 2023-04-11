@@ -9,6 +9,7 @@
 </head>
 <body>
 	<center>
+	<h1>Product Management</h1>
 		<form action="getbyname">
 			<table>
 				<tr>

@@ -8,7 +8,8 @@
 </head>
 <body>
 	<center>
-		<h1>Welcome to Sporty Shoes User Login Page</h1>
+		<h1>Welcome to Sporty Shoes </h1>
+		<h2>User Login Page</h2>
 		<form action="uservalidation">
 			<table>
 				<tr>

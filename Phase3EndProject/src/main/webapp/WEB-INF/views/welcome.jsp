@@ -10,6 +10,7 @@
 
 	<center>
 		<h1>Sporty Shoes</h1>
+		<p>India's best shoe company</p>
 		<form action="adminlogin">
 			<input type="submit" value="Admin Login">
 		</form>
